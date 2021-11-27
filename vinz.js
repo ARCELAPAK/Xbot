@@ -1734,8 +1734,8 @@ menunya = `╭─❒ 「 Bot Info 」 ❒
 ╭─⬣  「 Download 」⬣
 ├ ⌥ ${prefix}herolist
 ├ ⌥ ${prefix}herodetail [ _hero_ ]
-├ ⌥${prefix}google [ _search_ ]
-├ ⌥${prefix}gimage [ _search_ ]
+├ ⌥ ${prefix}google [ _search_ ]
+├ ⌥ ${prefix}gimage [ _search_ ]
 ├ ⌥ ${prefix}wiki [ _search_ ]
 ├ ⌥ ${prefix}mediafire [ _link_ ]
 ├ ⌥ ${prefix}ytsearch [ _judul_ ]
@@ -2021,8 +2021,8 @@ menu = `❏ 「 \`\`\`MENU DOWNLOAD\`\`\` 」❏
 ╭─────────────────────❒
 ├ ⌥ ${prefix}herolist
 ├ ⌥ ${prefix}herodetail [ _hero_ ]
-├ ⌥${prefix}google [ _search_ ]
-├ ⌥${prefix}gimage [ _search_ ]
+├ ⌥ ${prefix}google [ _search_ ]
+├ ⌥ ${prefix}gimage [ _search_ ]
 ├ ⌥ ${prefix}wiki [ _search_ ]
 ├ ⌥ ${prefix}mediafire [ _link_ ]
 ├ ⌥ ${prefix}ytsearch [ _judul_ ]
@@ -4140,7 +4140,23 @@ var nn = body.slice(9)
 							reply(mess.error.api)
 						}
 						break
-						case 'play':
+						case 'play':   
+				  if (args.length < 1) return reply('*Masukan judul nya?*')
+                reply(mess.wait)
+				play = args.join(" ")
+				anu = await fetchJson(`https://api.zeks.xyz/api/ytplaymp3?q=${play}&apikey=apivinz`)
+				if (anu.error) return reply(anu.error)
+				infomp3 = `*『 PLAY VIDEO 』*
+				
+Judul : ${anu.result.title}
+Source : ${anu.result.source}
+				
+*[Wait] Tunggu Sebentar..*`
+				///////buffer = await getBuffer(anu.result.thumbnail)
+				buffer1 = await getBuffer(anu.result.url_audio)
+				vinzbot.sendMessage(from, buffer1, audio, {mimetype: 'audio/mp4', filename: `${anu.result.audio}.mp3`, quoted:ftrol, caption: 'Nih Gan'})
+					break  
+					
 						case 'ytsearch':
               if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
             if (!args.length) return reply('Judulnya apa kak?')
