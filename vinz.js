@@ -1498,7 +1498,26 @@ reply(`╭─❒ 「 \`\`\`USER INFO\`\`\`  」 ❒
 👥 _Nomor : @${stod.split('@')[0]}_
 └❏
    「 *REDEEM CODE* 」
-*KOSONG*
+*Ready Redeem Code 💎 MLBB*
+
+38💎 : Rp. 7.000/biji ( 82 biji )
+Min take 2 biji ( x rate Rp. 6.500 )
+
+85💎 : Rp. 15.000/biji ( 94 biji )
+
+190💎 : Rp. 33.000/biji ( 4 biji )
+Min take 2 biji ( x rate Rp. 30.000 )
+
+*REDEEM SENDIRI DI WEBSITE RESMI MOONTON*
+*CODE FRESH*
+*COCOK BUAT GACHA, TIDAK TERHITUNG MISI TOPUP*
+
+*Cara Redeem :*
+1. Buka link Website resmi redeem ML
+   https://m.mobilelegends.com/en/codexchange
+2. Masukan PIN code dan ID akun anda
+3. Login ke dalam game dan cek mail box sistem untuk mengetahui kode Verifikasi 
+4. Masukan kode Verifikasi ke website, Selesai
 
 *Jam Operasional :*
 *(09.00 - 22.00 )*
