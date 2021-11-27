@@ -11,7 +11,7 @@ Simpel WhatsApp Bot
 ## FOR DEPLOY RAILWAY USER
 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FKurrXd%2FKurzBotAssistan)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FARCELAPAK%2FXbot)
 
 
 ## FOR TERMUX USER
