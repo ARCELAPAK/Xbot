@@ -127,6 +127,7 @@ multi = true
 nopref = false
 
 // APIKEY
+HunterApi = settings.HunterApi
 zerokey = settings.ZeroKey
 zerkey = settings.ZerKey
 YuzApi = 'Yuzzu'
