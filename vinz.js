@@ -4144,11 +4144,11 @@ var nn = body.slice(9)
   if (args.length < 1)return reply(mess.prem)
               if (!q) return reply('Linknya?')
               buttons = [{buttonId: `${prefix}video ${q}`,buttonText:{displayText: `🎥 Video`},type:1},{buttonId:`${prefix}audio ${q}`,buttonText:{displayText:'🎵 Mp3'},type:1}]
-              imageMsg = (await KonX.prepareMessageMedia(fs.readFileSync(`./stik/logoyt.jpg`), 'imageMessage', {thumbnail: fs.readFileSync(`./stik/logoyt.jpg`)})).imageMessage
+              imageMsg = (await vinzbot.prepareMessageMedia(fs.readFileSync(`./stik/logoyt.jpg`), 'imageMessage', {thumbnail: fs.readFileSync(`./stik/logoyt.jpg`)})).imageMessage
               buttonsMessage = {footerText:'Jangan Lupa Donasi Ya Kak ☕', imageMessage: imageMsg,
               contentText:`Silahkan Pilih Media Yg Akan Di Download kak`,buttons,headerType:4}
-              prep = await KonX.prepareMessageFromContent(from,{buttonsMessage},{quoted: mek})
-              KonX.relayWAMessage(prep)
+              prep = await vinzbot.prepareMessageFromContent(from,{buttonsMessage},{quoted: mek})
+              vinzbot.relayWAMessage(prep)
               break
 case 'audio':
                             if (args.length === 0) return reply(`Kirim perintah *${prefix}play* _Judul lagu yang akan dicari_`)
@@ -4184,7 +4184,7 @@ Source : ${anu.result.source}
 *[Wait] Tunggu Sebentar..*`
 				///////buffer = await getBuffer(anu.result.thumbnail)
 				buffer1 = await getBuffer(anu.result.url_video)
-				KonX.sendMessage(from, buffer1, video, {mimetype: 'video/mp4', filename: `${anu.result.video}.mp4`, quoted:mek, caption: 'Nih Gan'})
+				vinzbot.sendMessage(from, buffer1, video, {mimetype: 'video/mp4', filename: `${anu.result.video}.mp4`, quoted:mek, caption: 'Nih Gan'})
 					break      
 						case 'ytsearch':
               if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
