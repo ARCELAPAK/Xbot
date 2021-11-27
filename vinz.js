@@ -4144,7 +4144,7 @@ var nn = body.slice(9)
   if (args.length < 1)return reply(mess.prem)
               if (!q) return reply('Linknya?')
               buttons = [{buttonId: `${prefix}video ${q}`,buttonText:{displayText: `🎥 Video`},type:1},{buttonId:`${prefix}audio ${q}`,buttonText:{displayText:'🎵 Mp3'},type:1}]
-              imageMsg = (await vinzbot.prepareMessageMedia(fs.readFileSync(`./stik/logoyt.jpg`), 'imageMessage', {thumbnail: fs.readFileSync(`./stik/logoyt.jpg`)})).imageMessage
+              imageMsg = (await vinzbot.prepareMessageMedia(fs.readFileSync(`./sticker/logoyt.jpg`), 'imageMessage', {thumbnail: fs.readFileSync(`./sticker/logoyt.jpg`)})).imageMessage
               buttonsMessage = {footerText:'Jangan Lupa Donasi Ya Kak ☕', imageMessage: imageMsg,
               contentText:`Silahkan Pilih Media Yg Akan Di Download kak`,buttons,headerType:4}
               prep = await vinzbot.prepareMessageFromContent(from,{buttonsMessage},{quoted: mek})
