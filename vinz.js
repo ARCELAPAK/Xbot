@@ -4144,49 +4144,13 @@ var nn = body.slice(9)
 						case 'play':
   if (args.length < 1)return reply(mess.prem)
               if (!q) return reply('Linknya?')
-              buttons = [{buttonId: `${prefix}video ${q}`,buttonText:{displayText: `🎥 Video`},type:1},{buttonId:`${prefix}audio ${q}`,buttonText:{displayText:'🎵 Mp3'},type:1}]
+              buttons = [{buttonId: `${prefix}ytmp4 ${q}`,buttonText:{displayText: `🎥 Video`},type:1},{buttonId:`${prefix}ytmp3 ${q}`,buttonText:{displayText:'🎵 Mp3'},type:1}]
               imageMsg = (await vinzbot.prepareMessageMedia(fs.readFileSync(`./sticker/logoyt.jpg`), 'imageMessage', {thumbnail: fs.readFileSync(`./sticker/logoyt.jpg`)})).imageMessage
               buttonsMessage = {footerText:'Jangan Lupa Donasi Ya Kak ☕', imageMessage: imageMsg,
               contentText:`Silahkan Pilih Media Yg Akan Di Download kak`,buttons,headerType:4}
               prep = await vinzbot.prepareMessageFromContent(from,{buttonsMessage},{quoted: mek})
               vinzbot.relayWAMessage(prep)
-              break
-case 'audio':
-                            if (args.length === 0) return reply(`Kirim perintah *${prefix}play* _Judul lagu yang akan dicari_`)
-                            const playy = await axios.get(`https://bx-hunter.herokuapp.com/api/yt/search?query=${body.slice(6)}&apikey=${HunterApi}`)
-                            const mulaikah = playy.data.result[0].url
-                            try {
-                                reply(mess.wait)
-                                yta(mulaikah)
-                                .then((res) => {
-                                    const { dl_link, thumb, title, filesizeF, filesize } = res
-                                    axios.get(`https://tinyurl.com/api-create.php?url=${dl_link}`)
-                                    .then(async (a) => {
-                                    if (Number(filesize) >= 30000) return sendMediaURL(from, thumb, `❏ *PLAYmp3*\n\n❏ *Title* : ${title}\n❏ *Ext* : MP3\n*Filesize* : ${filesizeF}\n*Link* : ${a.data}\n\n_Maaf durasi melebihi batas maksimal, Silahkan klik link diatas_`)
-                                    sendFileFromUrl(dl_link, document, {mimetype: 'audio/mp3', filename: `${title}.mp3`, quoted: mek, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title:title,body:"",mediaType:"2",thumbnail:getBuffer(thumb),mediaUrl:"https://youtu.be/Ejl9sLbgc1A"}}}).catch(() => reply(mess.error.api))
-                                    })
-                                })
-                            } catch (err) {
-                                reply(mess.error.api)
-                            }
-                            break
-      case 'video':   
-        if (args.length < 1)return reply(mess.prem)
-				  if (args.length < 1) return reply('*Masukan judul nya?*')
-                reply('Loading.... ')
-				acaa = args.join(" ")
-				anu = await fetchJson(`https://bx-hunter.herokuapp.com/api/yt/playmp4?query=${acaa}&apikey=Ikyy69`)
-				if (anu.error) return reply(anu.error)
-				infomp3 = `*「 PLAY VIDEO 」*
-				
-Judul : ${anu.result.title}
-Source : ${anu.result.source}
-				
-*[Wait] Tunggu Sebentar..*`
-				///////buffer = await getBuffer(anu.result.thumbnail)
-				buffer1 = await getBuffer(anu.result.url_video)
-				vinzbot.sendMessage(from, buffer1, video, {mimetype: 'video/mp4', filename: `${anu.result.video}.mp4`, quoted:mek, caption: 'Nih Gan'})
-					break      
+              break      
 						case 'ytsearch':
               if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
             if (!args.length) return reply('Judulnya apa kak?')
