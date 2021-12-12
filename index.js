@@ -81,7 +81,7 @@ exec(`cd /sdcard/download && play *mp3`)
 			ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 			}
 			let buff = await getBuffer(ppimg)
-			masuk =`Halo @${num.split('@')[0]}\nSelamat Datang Di ${mdata.subject}\nEnjoy Jangan Lupa Kenalan\nKlik Button Di Bawah Untuk Memulai Bot\nNote Jika Tidak Ada Ketik      /allmenu`
+			masuk =`Halo @${num.split('@')[0]}\nSelamat Datang Di ${mdata.subject}\nEnjoy Jangan Lupa Order yak\nKlik Button Di Bawah Untuk Memulai Bot\nNote Jika Tidak Ada Ketik         /allmenu`
 			gbutsan = [{buttonId:'menu',buttonText:{displayText:'👋Welcome'},type:1}]
 			mhan = await vinzbot.prepareMessage(mdata.id, buff, MessageType.image, {thumbnail: buff})
 const buttonMessages = { imageMessage: mhan.message.imageMessage,
