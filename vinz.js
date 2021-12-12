@@ -1062,7 +1062,7 @@ if (budy.startsWith('/diamondml')){
 └❏
 「 *Price List Diamond ML* 」
 ╭─「  *Mobile Legends Paket A*  」
-├❍💎86 Rp. 18.400
+├❍💎86  Rp. 18.400
 ├❍💎172 Rp. 37.000
 ├❍💎257 Rp. 55.000
 ├❍💎344 Rp. 73.000
@@ -1071,7 +1071,7 @@ if (budy.startsWith('/diamondml')){
 ├❍💎600 Rp. 128.000
 ├❍💎706 Rp. 146.000
 ├❍💎878 Rp. 183.000
-├❍💎963    Rp. 201.000
+├❍💎963   Rp. 201.000
 ├❍💎1050  Rp. 219.000
 ├❍💎1222  Rp. 255.000
 ├❍💎1412  Rp. 292.000
@@ -1081,9 +1081,9 @@ if (budy.startsWith('/diamondml')){
 ├❍💎5532  Rp. 1.082.000 
 ├❍💎6238  Rp. 1.227.200
 ├❍💎9288  Rp. 1.801.800 
-├ Starlight⭐           Rp. 96.000    
+├ Starlight⭐      Rp. 96.000    
 ├ Twilight Pass⭐  Rp. 96.000
-├ Starlight⭐ +        Rp. 285.000
+├ Starlight⭐ +    Rp. 285.000
 │
 │「  *Mobile Legends Paket B*  」
 ├❍💎39 [34+5 Bonus] Rp. 7.938
@@ -1094,9 +1094,9 @@ if (budy.startsWith('/diamondml')){
 ├❍💎400 [360+40 Bonus] Rp. 79.400
 ├❍💎534 [480+54 Bonus] Rp. 105.840
 ├❍💎670 [600+70 Bonus] Rp. 134.400
-├❍💎1342 [1200+142 Bonus] Rp. 264.632
-├❍💎2700 [2400+300 Bonus] Rp. 531.200
-├❍💎4150 [3600+550 Bonus] Rp. 796.800
+├❍💎1342 [1200+142 Bonus]  Rp. 264.632
+├❍💎2700 [2400+300 Bonus]  Rp. 531.200
+├❍💎4150 [3600+550 Bonus]  Rp. 796.800
 ├❍💎7050 [6000+1050 Bonus] Rp. 1.323.000
 │
 │「  *Mobile Legends SEMI*  」
@@ -1137,18 +1137,18 @@ reply(`╭─❒ 「 \`\`\`USER INFO\`\`\`  」 ❒
 └❏
 「 *Price List Diamond FF* 」
 ╭─「  *Free Fire*  」
-├❍💎50      =   Rp. 6.670
-├❍💎70      =   Rp. 9.055
-├❍💎100    =   Rp. 13.240
-├❍💎140    =   Rp. 18.240
-├❍💎210    =   Rp. 27.500
-├❍💎280    =   Rp. 36.950
-├❍💎355    =   Rp. 45.850
-├❍💎425    =   Rp. 55.242
-├❍💎500    =   Rp. 68.286
-├❍💎720    =   Rp. 91.740
-├❍💎880    =   Rp. 110.335
-├❍💎925    =   Rp. 118.500
+├❍💎50    =   Rp. 6.670
+├❍💎70    =   Rp. 9.055
+├❍💎100   =   Rp. 13.240
+├❍💎140   =   Rp. 18.240
+├❍💎210   =   Rp. 27.500
+├❍💎280   =   Rp. 36.950
+├❍💎355   =   Rp. 45.850
+├❍💎425   =   Rp. 55.242
+├❍💎500   =   Rp. 68.286
+├❍💎720   =   Rp. 91.740
+├❍💎880   =   Rp. 110.335
+├❍💎925   =   Rp. 118.500
 ├❍💎1075  =   Rp. 135.225
 ├❍💎1200  =   Rp. 152.690
 ├❍💎1450  =   Rp. 185.500
@@ -1179,15 +1179,15 @@ reply(`╭─❒ 「 \`\`\`USER INFO\`\`\`  」 ❒
 └❏
 「 *Price List UC PUBG* 」
 ╭─「  *PUBG Mobile*  」
-├❍💸50        =   Rp. 9.500
-├❍💸70        =   Rp. 14.000
-├❍💸100      =   Rp. 18.500
-├❍💸125      =   Rp. 23.000
-├❍💸150      =   Rp. 28.500
-├❍💸210      =   Rp. 40.500
-├❍💸250      =   Rp. 46.000
-├❍💸500      =   Rp. 91.500
-├❍💸700      =   Rp. 113.500
+├❍💸50      =   Rp. 9.500
+├❍💸70      =   Rp. 14.000
+├❍💸100     =   Rp. 18.500
+├❍💸125     =   Rp. 23.000
+├❍💸150     =   Rp. 28.500
+├❍💸210     =   Rp. 40.500
+├❍💸250     =   Rp. 46.000
+├❍💸500     =   Rp. 91.500
+├❍💸700     =   Rp. 113.500
 ├❍💸1250    =   Rp. 230.500
 ├❍💸1750    =   Rp. 322.500
 ├❍💸2500    =   Rp. 453.500
@@ -1213,15 +1213,15 @@ reply(`╭─❒ 「 \`\`\`USER INFO\`\`\`  」 ❒
 └❏
 「 *Price List CP CODM* 」
 ╭─「  *COD Mobile*  」
-├❍💸26       =   Rp. 2.950
-├❍💸53       =   Rp. 9.950
-├❍💸106     =   Rp. 19.500
-├❍💸264     =   Rp. 48.500
-├❍💸528     =   Rp. 95.500
-├❍💸1056   =   Rp. 191.000
-├❍💸1584   =   Rp. 286.000
-├❍💸2640   =   Rp. 476.000
-├❍💸5280   =   Rp. 1.936.000
+├❍💸26    =   Rp. 2.950
+├❍💸53    =   Rp. 9.950
+├❍💸106   =   Rp. 19.500
+├❍💸264   =   Rp. 48.500
+├❍💸528   =   Rp. 95.500
+├❍💸1056  =   Rp. 191.000
+├❍💸1584  =   Rp. 286.000
+├❍💸2640  =   Rp. 476.000
+├❍💸5280  =   Rp. 1.936.000
 ├❍💸10560 =   Rp. 4.841.000
 ├❍💸26400 =   Rp. 9.676.000
 ├❍💸52800 =   Rp. 453.500
@@ -1247,15 +1247,15 @@ reply(`╭─❒ 「 \`\`\`USER INFO\`\`\`  」 ❒
 └❏
 「 *Price List Voucher AOV* 」
 ╭─「  *Arena Of Valor*  」
-├❍💵18       =   Rp. 5.000
-├❍💵40       =   Rp. 10.500
-├❍💵90       =   Rp. 19.200
-├❍💵230     =   Rp. 47.000
-├❍💵470     =   Rp. 91.000
-├❍💵850     =   Rp. 183.000
-├❍💵1430   =   Rp. 276.000
-├❍💵2390   =   Rp. 456.000
-├❍💵4800   =   Rp. 912.000
+├❍💵18    =   Rp. 5.000
+├❍💵40    =   Rp. 10.500
+├❍💵90    =   Rp. 19.200
+├❍💵230   =   Rp. 47.000
+├❍💵470   =   Rp. 91.000
+├❍💵850   =   Rp. 183.000
+├❍💵1430  =   Rp. 276.000
+├❍💵2390  =   Rp. 456.000
+├❍💵4800  =   Rp. 912.000
 ├❍💵24050 =   Rp. 4.561.000
 ├❍💵48200 =   Rp. 9.116.000
 │
@@ -1280,8 +1280,8 @@ reply(`╭─❒ 「 \`\`\`USER INFO\`\`\`  」 ❒
 └❏
 「 *Price List Point Valorant* 」
 ╭─「  *Valorant*  」
-├❍💵 420    =   Rp. 52.000
-├❍💵 700    =   Rp.82.000
+├❍💵 420   =   Rp. 52.000
+├❍💵 700   =   Rp.82.000
 ├❍💵 1375  =   Rp. 152.000
 ├❍💵 2400  =   Rp. 252.000
 ├❍💵 4000  =   Rp. 403.000
@@ -1308,7 +1308,7 @@ reply(`╭─❒ 「 \`\`\`USER INFO\`\`\`  」 ❒
 └❏
 「 *Price List Crystal GI* 」
 ╭─「  *Genshin Impact*  」
-├❍❄️60              =   Rp. 15.000
+├❍❄️60       =   Rp. 15.000
 ├❍❄️300+30     =   Rp. 71.000
 ├❍❄️980+110   =   Rp. 211.000
 ├❍❄️1980+260 =   Rp. 455.000
@@ -1365,9 +1365,9 @@ reply(`╭─❒ 「 \`\`\`USER INFO\`\`\`  」 ❒
 └❏
 「 *Price List Credits LA* 」
 ╭─「  *Life After*  」
-├❍ 💳65     =   Rp. 14.000
-├❍ 💳330   =   Rp. 70.000
-├❍ 💳558   =   Rp. 111.000
+├❍ 💳65   =   Rp. 14.000
+├❍ 💳330 =   Rp. 70.000
+├❍ 💳558 =   Rp. 111.000
 ├❍ 💳1108 =   Rp. 206.000
 ├❍ 💳2268 =   Rp. 413.500
 ├❍ 💳3468 =   Rp. 646.000
@@ -1395,12 +1395,12 @@ reply(`╭─❒ 「 \`\`\`USER INFO\`\`\`  」 ❒
 └❏
 「 *Price List Cash PB* 」
 ╭─「  *Point Blank*  」
-├❍ 💵1200    =   Rp. 9.900
-├❍ 💵2400    =   Rp. 19.000
-├❍ 💵6000    =   Rp. 46.000
-├❍ 💵12000  =   Rp. 91.000
-├❍ 💵36000  =   Rp. 292.000
-├❍ 💵60000  =   Rp. 486.000
+├❍ 💵1200   =   Rp. 9.900
+├❍ 💵2400   =   Rp. 19.000
+├❍ 💵6000   =   Rp. 46.000
+├❍ 💵12000 =   Rp. 91.000
+├❍ 💵36000 =   Rp. 292.000
+├❍ 💵60000 =   Rp. 486.000
 │
 ├ ⌥ Jam Operasional :
 │     (09.00 - 22.00 )
@@ -1423,18 +1423,18 @@ reply(`╭─❒ 「 \`\`\`USER INFO\`\`\`  」 ❒
 └❏
 「 *Price List KOIN EMAS DOMINO* 」
 ╭─「  *DOMINO*  」
-├❍💎60M   =   Rp. 6.500
+├❍💎60M  =   Rp. 6.500
 ├❍💎200M =   Rp. 18.500
 ├❍💎400M =   Rp. 35.500
-├❍💎1B      =   Rp. 66.500
-├❍💎2B      =   Rp. 135.000
-├❍💎4B      =   Rp. 268.000
-├❍💎5B      =   Rp. 336.000
-├❍💎6B      =   Rp. 401.000
-├❍💎7B      =   Rp. 466.000
-├❍💎8B      =   Rp. 536.000
-├❍💎9B      =   Rp. 599.000
-├❍💎10B    =   Rp. 667.500
+├❍💎1B   =   Rp. 66.500
+├❍💎2B   =   Rp. 135.000
+├❍💎4B   =   Rp. 268.000
+├❍💎5B   =   Rp. 336.000
+├❍💎6B   =   Rp. 401.000
+├❍💎7B   =   Rp. 466.000
+├❍💎8B   =   Rp. 536.000
+├❍💎9B   =   Rp. 599.000
+├❍💎10B =   Rp. 667.500
 │
 ├ ⌥ Jam Operasional :
 │     (09.00 - 22.00 )
@@ -1881,7 +1881,7 @@ mhan = await vinzbot.prepareMessage(from, pporigi, image, {thumbnail: pporigi})
 const btnBngsat = {
 imageMessage: mhan.message.imageMessage,
 contentText: `${menunya}`,
-footerText: `𝙔𝙏 𝙑𝙄𝙉𝙕𝘽𝙊𝙏\n𝙋𝙄𝙉𝘿𝘼𝙃 𝙆𝙀 𝘾𝙃𝘼𝙉𝙀𝙇\n𝙆𝙤𝙣𝙓 ✘`,
+footerText: `𝑨𝑹𝑪𝑬𝑳𝑺 𝑩𝑶𝑻\n𝙋𝙄𝙉𝘿𝘼𝙃 𝙆𝙀 𝘾𝙃𝘼𝙉𝙀𝙇\n𝙆𝙤𝙣𝙓 ✘`,
 buttons: gbutsan,
 headerType: 4
 }
@@ -1905,7 +1905,11 @@ case 'menu':
                            },
                            {
                               "title": "Store",
-                              "rowId": ""    
+                              "rowId": ""
+                           },
+                           {
+                              "title": "MakerMenu",
+                              "rowId": ""
                            },
                            {
                               "title": "OwnerMenu",
@@ -1962,6 +1966,7 @@ vinzbot.sendMessage(from, sendBtnVeryy, MessageType.buttonsMessage, {quoted:ftro
         break
 case 'ownermenu':
   if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
+stod = `${sender}`
   stst = await vinzbot.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
 menu = `❏ 「 \`\`\`MENU OWNER\`\`\` 」❏
@@ -2029,6 +2034,7 @@ katalog(menu)
 break
 case 'downloadmenu':
   if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
+stod = `${sender}`
   stst = await vinzbot.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
 menu = `❏ 「 \`\`\`MENU DOWNLOAD\`\`\` 」❏
@@ -2065,6 +2071,7 @@ katalog(menu)
 break
 case 'store':
   if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
+stod = `${sender}`
   stst = await vinzbot.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
 menu = `❏ 「 \`\`\` STORE\`\`\` 」❏
@@ -2096,6 +2103,10 @@ menu = `❏ 「 \`\`\` STORE\`\`\` 」❏
 katalog(menu)
 break
 case 'makermenu':
+if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
+stod = `${sender}`
+  stst = await vinzbot.getStatus(`${sender.split('@')[0]}@c.us`)
+				stst = stst.status == 401 ? '' : stst.status
 menu = `❏ 「 \`\`\`MENU MAKER\`\`\` 」❏
 ╭─❒ 「 \`\`\`USER INFO\`\`\`  」 ❒
 ☑️ _Status : ${isOwner ? 'Owner' : 'User'}_
@@ -2104,49 +2115,112 @@ menu = `❏ 「 \`\`\`MENU MAKER\`\`\` 」❏
 👥 _Nomor : @${stod.split('@')[0]}_
 └❏
 ╭─────────────────────❒
-├ ⌥ ${prefix}foliokanan [ _text_ ]
-├ ⌥ ${prefix}foliokiri [ _text_ ]
-├ ⌥ ${prefix}nuliskanan [ _text_ ]
-├ ⌥ ${prefix}nuliskiri [ _text_ ]
-├ ⌥ ${prefix}maker3d [ _text_ ]
-├ ⌥ ${prefix}maker2d [ _text_ ]
-├ ⌥ ${prefix}epepserti [ _text_ ]
-├ ⌥ ${prefix}wetglass [ _text_ ]
-├ ⌥ ${prefix}multicolor3d [ _text_ ]
-├ ⌥ ${prefix}watercolor [ _text_ ]
-├ ⌥ ${prefix}luxurygold [ _text_ ]
-├ ⌥ ${prefix}galaxywallpaper [ _text_ ]
-├ ⌥ ${prefix}lighttext [ _text_ ]
-├ ⌥ ${prefix}beautifulflower [ _text_ ]
-├ ⌥ ${prefix}puppycute [ _text_ ]
-├ ⌥ ${prefix}royaltext [ _text_ ]
-├ ⌥ ${prefix}heartshaped [ _text_ ]
-├ ⌥ ${prefix}birthdaycake [ _text_ ]
-├ ⌥ ${prefix}galaxystyle [ _text_ ]
-├ ⌥ ${prefix}hologram3d [ _text_ ]
-├ ⌥ ${prefix}greenneon [ _text_ ]
-├ ⌥ ${prefix}glossychrome [ _text_ ]
-├ ⌥ ${prefix}greenbush [ _text_ ]
-├ ⌥ ${prefix}metallogo [ _text_ ]
-├ ⌥ ${prefix}noeltext [ _text_ ]
-├ ⌥ ${prefix}glittergold [ _text_ ]
-├ ⌥ ${prefix}textcake [ _text_ ] 
-├ ⌥ ${prefix}starsnight [ _text_ ]
-├ ⌥ ${prefix}wooden3d [ _text_ ]
-├ ⌥ ${prefix}textbyname [ _text_ ]
-├ ⌥ ${prefix}writegalacy [ _text_ ]
-├ ⌥ ${prefix}galaxybat [ _text_ ]
-├ ⌥ ${prefix}snow3d [ _text_ ]
-├ ⌥ ${prefix}birthdayday [ _text_ ]
-├ ⌥ ${prefix}goldplaybutton [ _text_ ]
-├ ⌥ ${prefix}silverplaybutton [ _text_ ]
-├ ⌥ ${prefix}freefire [ _text_ ]
+├ ⌥ ${prefix}blackpink
+├ ⌥ ${prefix}neon
+├ ⌥ ${prefix}greenneon
+├ ⌥ ${prefix}advanceglow
+├ ⌥ ${prefix}futureneon
+├ ⌥ ${prefix}sandwriting
+├ ⌥ ${prefix}sandsummer
+├ ⌥ ${prefix}sandengraved
+├ ⌥ ${prefix}metaldark
+├ ⌥ ${prefix}neonlight
+├ ⌥ ${prefix}holographic
+├ ⌥ ${prefix}text1917
+├ ⌥ ${prefix}minion
+├ ⌥ ${prefix}deluxesilver
+├ ⌥ ${prefix}newyearcard
+├ ⌥ ${prefix}bloodfrosted
+├ ⌥ ${prefix}halloween
+├ ⌥ ${prefix}jokerlogo
+├ ⌥ ${prefix}fireworksparkle
+├ ⌥ ${prefix}natureleaves
+├ ⌥ ${prefix}bokeh
+├ ⌥ ${prefix}toxic
+├ ⌥ ${prefix}strawberry
+├ ⌥ ${prefix}box3d
+├ ⌥ ${prefix}roadwarning
+├ ⌥ ${prefix}breakwall
+├ ⌥ ${prefix}icecold
+├ ⌥ ${prefix}luxury
+├ ⌥ ${prefix}cloud
+├ ⌥ ${prefix}summersand
+├ ⌥ ${prefix}horrorblood
+├ ⌥ ${prefix}thunder
+├ ⌥ ${prefix}pornhub
+├ ⌥ ${prefix}glitch
+├ ⌥ ${prefix}avenger
+├ ⌥ ${prefix}space
+├ ⌥ ${prefix}ninjalogo
+├ ⌥ ${prefix}marvelstudio
+├ ⌥ ${prefix}lionlogo
+├ ⌥ ${prefix}wolflogo
+├ ⌥ ${prefix}steel3d
+├ ⌥ ${prefix}wallgravity
+├ ⌥ ${prefix}shadow
+├ ⌥ ${prefix}cup
+├ ⌥ ${prefix}cup1
+├ ⌥ ${prefix}romance
+├ ⌥ ${prefix}smoke
+├ ⌥ ${prefix}burnpaper
+├ ⌥ ${prefix}lovemessage
+├ ⌥ ${prefix}undergrass
+├ ⌥ ${prefix}love
+├ ⌥ ${prefix}coffe
+├ ⌥ ${prefix}woodheart
+├ ⌥ ${prefix}woodenboard
+├ ⌥ ${prefix}summer3d
+├ ⌥ ${prefix}wolfmetal
+├ ⌥ ${prefix}nature3d
+├ ⌥ ${prefix}underwater
+├ ⌥ ${prefix}golderrose
+├ ⌥ ${prefix}summernature
+├ ⌥ ${prefix}letterleaves
+├ ⌥ ${prefix}glowingneon
+├ ⌥ ${prefix}fallleaves
+├ ⌥ ${prefix}flamming
+├ ⌥ ${prefix}harrypotter
+├ ⌥ ${prefix}carvedwood
+├ ⌥ ${prefix}arcade8bit
+├ ⌥ ${prefix}battlefield4
+├ ⌥ ${prefix}pubg
+├ ⌥ ${prefix}wetglass
+├ ⌥ ${prefix}multicolor3d
+├ ⌥ ${prefix}watercolor
+├ ⌥ ${prefix}luxurygold
+├ ⌥ ${prefix}galaxywallpaper
+├ ⌥ ${prefix}lighttext
+├ ⌥ ${prefix}beautifulflower
+├ ⌥ ${prefix}puppycute
+├ ⌥ ${prefix}royaltext
+├ ⌥ ${prefix}heartshaped
+├ ⌥ ${prefix}birthdaycake
+├ ⌥ ${prefix}galaxystyle
+├ ⌥ ${prefix}hologram3d
+├ ⌥ ${prefix}greenneon
+├ ⌥ ${prefix}glossychrome
+├ ⌥ ${prefix}greenbush
+├ ⌥ ${prefix}metallogo
+├ ⌥ ${prefix}noeltext
+├ ⌥ ${prefix}glittergold
+├ ⌥ ${prefix}textcake
+├ ⌥ ${prefix}starsnight
+├ ⌥ ${prefix}wooden3d
+├ ⌥ ${prefix}textbyname
+├ ⌥ ${prefix}writegalacy
+├ ⌥ ${prefix}galaxybat
+├ ⌥ ${prefix}snow3d
+├ ⌥ ${prefix}birthdayday
+├ ⌥ ${prefix}goldplaybutton
+├ ⌥ ${prefix}silverplaybutton
+├ ⌥ ${prefix}freefire
 └─────────────────────❏
 `
 katalog(menu)
 break
 case 'groupmenu':
   if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
+stod = `${sender}`
   stst = await vinzbot.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
 menu = `❏ 「 \`\`\`MENU GROUP\`\`\` 」❏
@@ -2192,6 +2266,7 @@ katalog(menu)
 break
 case 'othermenu':
   if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
+stod = `${sender}`
   stst = await vinzbot.getStatus(`${sender.split('@')[0]}@c.us`)
 				stst = stst.status == 401 ? '' : stst.status
 menu = `❏ 「 \`\`\`MENU OTHER\`\`\` 」❏
@@ -2274,6 +2349,146 @@ doni =`
 `
 vinzbot.sendMessage(from, dona, image, {contextInfo: { mentionedJid: [dtod,otod,stod]}, quoted: ftrol, thumbnail: dona, caption: doni })
 break
+//
+case 'blackpink':
+                case 'neon':
+                case 'greenneon':
+                case 'advanceglow':
+                case 'futureneon':
+                case 'sandwriting':
+                case 'sandsummer':
+                case 'sandengraved':
+                case 'metaldark':
+                case 'neonlight':
+                case 'holographic':
+                case 'text1917':
+                case 'minion':
+                case 'deluxesilver':
+                case 'newyearcard':
+                case 'bloodfrosted':
+                case 'halloween':
+                case 'jokerlogo':
+                case 'fireworksparkle':
+                case 'natureleaves':
+                case 'bokeh':
+                case 'toxic':
+                case 'strawberry':
+                case 'box3d':
+                case 'roadwarning':
+                case 'breakwall':
+                case 'icecold':
+                case 'luxury':
+                case 'cloud':
+                case 'summersand':
+                case 'horrorblood':
+                case 'thunder':
+                if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
+                    if (args.length == 0) return reply(`Example: ${prefix + command} NAMA LU`)
+                    ini_txt = args.join(" ")
+                    getBuffer(`https://api.lolhuman.xyz/api/textprome/${command}?apikey=KurrXd&text=${ini_txt}`).then((gambar) => {
+                        vinzbot.sendMessage(from, gambar, image, {thumbnail: Buffer.alloc(0), caption: `NIH NGAB`, quoted : ftrol})
+                    })
+                    break
+                case 'pornhub':
+                case 'glitch':
+                case 'avenger':
+                case 'space':
+                case 'ninjalogo':
+                case 'marvelstudio':
+                case 'lionlogo':
+                case 'wolflogo':
+                case 'steel3d':
+                case 'wallgravity':
+                if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
+                    if (args.length == 0) return reply(`Example: ${prefix + command} NAMA LU`)
+                    txt1 = args[0]
+                    txt2 = args[1]
+                    getBuffer(`https://api.lolhuman.xyz/api/textprome2/${command}?apikey=KurrXd&text1=${txt1}&text2=${txt2}`).then((gambar) => {
+                        vinzbot.sendMessage(from, gambar, image, {thumbnail: Buffer.alloc(0), caption: `NIH NGAB`, quoted : ftrol})
+                    })
+                    break
+// Photo Oxy //
+                case 'shadow':
+                case 'cup':
+                case 'cup1':
+                case 'romance':
+                case 'smoke':
+                case 'burnpaper':
+                case 'lovemessage':
+                case 'undergrass':
+                case 'love':
+                case 'coffe':
+                case 'woodheart':
+                case 'woodenboard':
+                case 'summer3d':
+                case 'wolfmetal':
+                case 'nature3d':
+                case 'underwater':
+                case 'golderrose':
+                case 'summernature':
+                case 'letterleaves':
+                case 'glowingneon':
+                case 'fallleaves':
+                case 'flamming':
+                case 'harrypotter':
+                case 'carvedwood':
+                if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
+                    if (args.length == 0) return reply(`Example: ${prefix + command} NAMA LU`)
+                    ini_txt = args.join(" ")
+                    getBuffer(`https://api.lolhuman.xyz/api/photooxy1/${command}?apikey=KurrXd&text=${ini_txt}`).then((gambar) => {
+                        vinzbot.sendMessage(from, gambar, image, {thumbnail: Buffer.alloc(0), caption: `NIH NGAB`, quoted : ftrol})
+                    })
+                    break
+                case 'arcade8bit':
+                case 'battlefield4':
+                case 'pubg':
+                if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
+                    if (args.length == 0) return reply(`Example: ${prefix + command} NAMA LU`)
+                    txt1 = args[0]
+                    txt2 = args[1]
+                    getBuffer(`https://api.lolhuman.xyz/api/photooxy2/${command}?apikey=KurrXd&text1=${txt1}&text2=${txt2}`).then((gambar) => {
+                        vinzbot.sendMessage(from, gambar, image, {thumbnail: Buffer.alloc(0), caption: `NIH NGAB`, quoted : ftrol})
+                    })
+                    break
+
+                    // Ephoto 360 //
+                case 'wetglass':
+                case 'multicolor3d':
+                case 'watercolor':
+                case 'luxurygold':
+                case 'galaxywallpaper':
+                case 'lighttext':
+                case 'beautifulflower':
+                case 'puppycute':
+                case 'royaltext':
+                case 'heartshaped':
+                case 'birthdaycake':
+                case 'galaxystyle':
+                case 'hologram3d':
+                case 'greenneon':
+                case 'glossychrome':
+                case 'greenbush':
+                case 'metallogo':
+                case 'noeltext':
+                case 'glittergold':
+                case 'textcake':
+                case 'starsnight':
+                case 'wooden3d':
+                case 'textbyname':
+                case 'writegalacy':
+                case 'galaxybat':
+                case 'snow3d':
+                case 'birthdayday':
+                case 'goldplaybutton':
+                case 'silverplaybutton':
+                case 'freefire':
+                if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
+                    if (args.length == 0) return reply(`Example: ${prefix + command} NAMA LU`)
+                    ini_txt = args.join(" ")
+                    getBuffer(`https://api.lolhuman.xyz/api/ephoto1/${command}?apikey=KurrXd&text=${ini_txt}`).then((gambar) => {
+                        vinzbot.sendMessage(from, gambar, image, {thumbnail: Buffer.alloc(0), caption: `NIH NGAB`, quoted : ftrol}) 
+                    })
+                    break
 //🐀💰 MALING
 					//Fun not faedah
                case 'brainly':
@@ -4160,16 +4375,26 @@ var nn = body.slice(9)
 							reply(mess.error.api)
 						}
 						break
-						case 'play':
-  if (args.length < 1)return reply(mess.prem)
-              if (!q) return reply('Linknya?')
-              buttons = [{buttonId: `${prefix}ytmp4 ${q}`,buttonText:{displayText: `🎥 Video`},type:1},{buttonId:`${prefix}ytmp3 ${q}`,buttonText:{displayText:'🎵 Mp3'},type:1}]
-              imageMsg = (await vinzbot.prepareMessageMedia(fs.readFileSync(`./sticker/logoyt.jpg`), 'imageMessage', {thumbnail: fs.readFileSync(`./sticker/logoyt.jpg`)})).imageMessage
-              buttonsMessage = {footerText:'Jangan Lupa Donasi Ya Kak ☕', imageMessage: imageMsg,
-              contentText:`Silahkan Pilih Media Yg Akan Di Download kak`,buttons,headerType:4}
-              prep = await vinzbot.prepareMessageFromContent(from,{buttonsMessage},{quoted: mek})
-              vinzbot.relayWAMessage(prep)
-              break      
+						case 'play': 
+if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
+                            if (args.length === 0) return reply(`Kirim perintah *${prefix}play* _Judul lagu yang akan dicari_`)
+                            const playy = await axios.get(`https://bx-hunter.herokuapp.com/api/yt/search?query=${body.slice(6)}&apikey=${HunterApi}`)
+                            const mulaikah = playy.data.result[0].url
+                            try {
+                                sticWait(from)
+                                yta(mulaikah)
+                                .then((res) => {
+                                    const { dl_link, thumb, title, filesizeF, filesize } = res
+                                    axios.get(`https://tinyurl.com/api-create.php?url=${dl_link}`)
+                                    .then(async (a) => {
+                                    if (Number(filesize) >= 30000) return sendMediaURL(from, thumb, `❏ *PLAYmp3*\n\n❏ *Title* : ${title}\n❏ *Ext* : MP3\n*Filesize* : ${filesizeF}\n*Link* : ${a.data}\n\n_Maaf durasi melebihi batas maksimal, Silahkan klik link diatas_`)
+                                    sendFileFromUrl(dl_link, document, {mimetype: 'audio/mp3', filename: `${title}.mp3`, quoted: ftrol, contextInfo: { forwardingScore: 508, isForwarded: true, externalAdReply:{title:title,body:"🔖 PLAY MP3",mediaType:"2",thumbnail:getBuffer(thumb),mediaUrl:"https://youtu.be/Ejl9sLbgc1A"}}}).catch(() => reply(mess.error.api))
+                                    })
+                                })
+                            } catch (err) {
+                                reply(mess.error.api)
+                            }
+                            break
 						case 'ytsearch':
               if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: ftrol})
             if (!args.length) return reply('Judulnya apa kak?')
