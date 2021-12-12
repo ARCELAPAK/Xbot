@@ -1309,8 +1309,8 @@ reply(`╭─❒ 「 \`\`\`USER INFO\`\`\`  」 ❒
 「 *Price List Crystal GI* 」
 ╭─「  *Genshin Impact*  」
 ├❍❄️60       =   Rp. 15.000
-├❍❄️300+30     =   Rp. 71.000
-├❍❄️980+110   =   Rp. 211.000
+├❍❄️300+30   =   Rp. 71.000
+├❍❄️980+110  =   Rp. 211.000
 ├❍❄️1980+260 =   Rp. 455.000
 ├❍❄️3260+600 =   Rp. 731.000
 ├❍❄️6480+160 =   Rp. 1.451.000
@@ -1336,9 +1336,9 @@ reply(`╭─❒ 「 \`\`\`USER INFO\`\`\`  」 ❒
 └❏
 「 *Price List Candy SM* 」
 ╭─「  *Sausage Man*  」
-├❍🍬60      =   Rp. 14.000
-├❍🍬180    =   Rp. 41.000
-├❍🍬680    =   Rp. 123.000
+├❍🍬60    =   Rp. 14.000
+├❍🍬180   =   Rp. 41.000
+├❍🍬680   =   Rp. 123.000
 ├❍🍬1280  =   Rp. 245.000
 ├❍🍬1980  =   Rp. 396.000
 ├❍🍬3280  =   Rp. 611.000
@@ -1366,8 +1366,8 @@ reply(`╭─❒ 「 \`\`\`USER INFO\`\`\`  」 ❒
 「 *Price List Credits LA* 」
 ╭─「  *Life After*  」
 ├❍ 💳65   =   Rp. 14.000
-├❍ 💳330 =   Rp. 70.000
-├❍ 💳558 =   Rp. 111.000
+├❍ 💳330  =   Rp. 70.000
+├❍ 💳558  =   Rp. 111.000
 ├❍ 💳1108 =   Rp. 206.000
 ├❍ 💳2268 =   Rp. 413.500
 ├❍ 💳3468 =   Rp. 646.000
@@ -1395,9 +1395,9 @@ reply(`╭─❒ 「 \`\`\`USER INFO\`\`\`  」 ❒
 └❏
 「 *Price List Cash PB* 」
 ╭─「  *Point Blank*  」
-├❍ 💵1200   =   Rp. 9.900
-├❍ 💵2400   =   Rp. 19.000
-├❍ 💵6000   =   Rp. 46.000
+├❍ 💵1200  =   Rp. 9.900
+├❍ 💵2400  =   Rp. 19.000
+├❍ 💵6000  =   Rp. 46.000
 ├❍ 💵12000 =   Rp. 91.000
 ├❍ 💵36000 =   Rp. 292.000
 ├❍ 💵60000 =   Rp. 486.000
@@ -1434,7 +1434,7 @@ reply(`╭─❒ 「 \`\`\`USER INFO\`\`\`  」 ❒
 ├❍💎7B   =   Rp. 466.000
 ├❍💎8B   =   Rp. 536.000
 ├❍💎9B   =   Rp. 599.000
-├❍💎10B =   Rp. 667.500
+├❍💎10B  =   Rp. 667.500
 │
 ├ ⌥ Jam Operasional :
 │     (09.00 - 22.00 )
@@ -1498,15 +1498,7 @@ reply(`╭─❒ 「 \`\`\`USER INFO\`\`\`  」 ❒
 👥 _Nomor : @${stod.split('@')[0]}_
 └❏
    「 *REDEEM CODE* 」
-*Ready Redeem Code 💎 MLBB*
-
-38💎 : Rp. 7.000/biji ( 82 biji )
-Min take 2 biji ( x rate Rp. 6.500 )
-
-85💎 : Rp. 15.000/biji ( 94 biji )
-
-190💎 : Rp. 33.000/biji ( 4 biji )
-Min take 2 biji ( x rate Rp. 30.000 )
+*KOSONG*
 
 *REDEEM SENDIRI DI WEBSITE RESMI MOONTON*
 *CODE FRESH*
@@ -1537,40 +1529,7 @@ reply(`╭─❒ 「 \`\`\`USER INFO\`\`\`  」 ❒
 👥 _Nomor : @${stod.split('@')[0]}_
 └❏
    「 *Pre-ORDER* 」
-*PO DM MLBB EVENT KAGURA*
-*TANGGAL 27 NOVEMBER*
-
-305💎 Rp. 56.500
-(Sudah terhitung event 250)
-571💎 Rp. 105.500
-(Sudah terhitung event 500)
-
-*FORMAT NYA :*
-id :
-Server :
-Nick :
-PO DM 305 / 571
-
-*PRE ORDER SL DESEMBER*
-*VIA ID & SERVER BUKAN GIFT*
-
-List Skin :
-• Broody 'Lethal Fang'
-• Ling 'Street Punk'
-• Harley 'Royal Magister'
-• Silvana 'Pure Heroine'
-• Franco 'Apocalypse'
-
-Rp. 90.000/id (bonus 1-12💎)
-
-Dikirim Awal Desember
-*Close PO 29 November at 22:00 WIB*
-
-*FORMAT NYA :*
-id :
-Server :
-Nick :
-PO SL DESEMBER
+*KOSONG*
 
 *Jam Operasional :*
 *(09.00 - 22.00 )*
@@ -1772,6 +1731,107 @@ menunya = `╭─❒ 「 Bot Info 」 ❒
 ├ ⌥ ${prefix}tourl [ _reply image/video_ ]
 ├ ⌥ ${prefix}kalkulator [ _angka_ ]
 ├ ⌥ ${prefix}translate [ _teks kodebhs_ ]
+└────────────────⬣
+╭─⬣  「 Maker 」⬣
+├ ⌥ ${prefix}blackpink
+├ ⌥ ${prefix}neon
+├ ⌥ ${prefix}greenneon
+├ ⌥ ${prefix}advanceglow
+├ ⌥ ${prefix}futureneon
+├ ⌥ ${prefix}sandwriting
+├ ⌥ ${prefix}sandsummer
+├ ⌥ ${prefix}sandengraved
+├ ⌥ ${prefix}metaldark
+├ ⌥ ${prefix}neonlight
+├ ⌥ ${prefix}holographic
+├ ⌥ ${prefix}text1917
+├ ⌥ ${prefix}minion
+├ ⌥ ${prefix}deluxesilver
+├ ⌥ ${prefix}newyearcard
+├ ⌥ ${prefix}bloodfrosted
+├ ⌥ ${prefix}halloween
+├ ⌥ ${prefix}jokerlogo
+├ ⌥ ${prefix}fireworksparkle
+├ ⌥ ${prefix}natureleaves
+├ ⌥ ${prefix}bokeh
+├ ⌥ ${prefix}toxic
+├ ⌥ ${prefix}strawberry
+├ ⌥ ${prefix}box3d
+├ ⌥ ${prefix}roadwarning
+├ ⌥ ${prefix}breakwall
+├ ⌥ ${prefix}icecold
+├ ⌥ ${prefix}luxury
+├ ⌥ ${prefix}cloud
+├ ⌥ ${prefix}summersand
+├ ⌥ ${prefix}horrorblood
+├ ⌥ ${prefix}thunder
+├ ⌥ ${prefix}pornhub
+├ ⌥ ${prefix}glitch
+├ ⌥ ${prefix}avenger
+├ ⌥ ${prefix}space
+├ ⌥ ${prefix}ninjalogo
+├ ⌥ ${prefix}marvelstudio
+├ ⌥ ${prefix}lionlogo
+├ ⌥ ${prefix}wolflogo
+├ ⌥ ${prefix}steel3d
+├ ⌥ ${prefix}wallgravity
+├ ⌥ ${prefix}shadow
+├ ⌥ ${prefix}cup
+├ ⌥ ${prefix}cup1
+├ ⌥ ${prefix}romance
+├ ⌥ ${prefix}smoke
+├ ⌥ ${prefix}burnpaper
+├ ⌥ ${prefix}lovemessage
+├ ⌥ ${prefix}undergrass
+├ ⌥ ${prefix}love
+├ ⌥ ${prefix}coffe
+├ ⌥ ${prefix}woodheart
+├ ⌥ ${prefix}woodenboard
+├ ⌥ ${prefix}summer3d
+├ ⌥ ${prefix}wolfmetal
+├ ⌥ ${prefix}nature3d
+├ ⌥ ${prefix}underwater
+├ ⌥ ${prefix}golderrose
+├ ⌥ ${prefix}summernature
+├ ⌥ ${prefix}letterleaves
+├ ⌥ ${prefix}glowingneon
+├ ⌥ ${prefix}fallleaves
+├ ⌥ ${prefix}flamming
+├ ⌥ ${prefix}harrypotter
+├ ⌥ ${prefix}carvedwood
+├ ⌥ ${prefix}arcade8bit
+├ ⌥ ${prefix}battlefield4
+├ ⌥ ${prefix}pubg
+├ ⌥ ${prefix}wetglass
+├ ⌥ ${prefix}multicolor3d
+├ ⌥ ${prefix}watercolor
+├ ⌥ ${prefix}luxurygold
+├ ⌥ ${prefix}galaxywallpaper
+├ ⌥ ${prefix}lighttext
+├ ⌥ ${prefix}beautifulflower
+├ ⌥ ${prefix}puppycute
+├ ⌥ ${prefix}royaltext
+├ ⌥ ${prefix}heartshaped
+├ ⌥ ${prefix}birthdaycake
+├ ⌥ ${prefix}galaxystyle
+├ ⌥ ${prefix}hologram3d
+├ ⌥ ${prefix}greenneon
+├ ⌥ ${prefix}glossychrome
+├ ⌥ ${prefix}greenbush
+├ ⌥ ${prefix}metallogo
+├ ⌥ ${prefix}noeltext
+├ ⌥ ${prefix}glittergold
+├ ⌥ ${prefix}textcake
+├ ⌥ ${prefix}starsnight
+├ ⌥ ${prefix}wooden3d
+├ ⌥ ${prefix}textbyname
+├ ⌥ ${prefix}writegalacy
+├ ⌥ ${prefix}galaxybat
+├ ⌥ ${prefix}snow3d
+├ ⌥ ${prefix}birthdayday
+├ ⌥ ${prefix}goldplaybutton
+├ ⌥ ${prefix}silverplaybutton
+├ ⌥ ${prefix}freefire
 └────────────────⬣
 ╭─⬣  「 Group 」⬣
 ├ ⌥ ${prefix}getpict [ _@tag_ ]
